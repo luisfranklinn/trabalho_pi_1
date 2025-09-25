@@ -24,13 +24,3 @@ pip install -r requirements.txt
 echo.
 echo Bibliotecas instaladas com sucesso!
 echo.
-echo =============================================================
-echo  Iniciando a aplicacao...
-echo =============================================================
-echo.
-
-python run.py
-
-echo.
-echo A aplicacao foi fechada.
-pause
